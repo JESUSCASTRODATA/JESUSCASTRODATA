@@ -1,12 +1,15 @@
 <h1 align="center">Hola, soy Jesús Castro | JESUSCASTRODATA</h1>
 
 <p align="center">
-    Senior Data Analyst | Especialista en Ciencia Reproducible y Modelos Socioeconómicos
+    Analista de Datos | Especializado en Turismo, Economía Regional y Ciencias Sociales
+</p>
+<p align="center">
+    **Python · R · Reproducibilidad · Open Data**
 </p>
 
 ---
 
-## Mi Propuesta de Valor
+## 🎯 Mi Propuesta de Valor
 
 Transformo la complejidad de los datos públicos en **diagnósticos verificables** para la toma de decisiones económicas y sociales. Mi valor reside en el **rigor metodológico** que garantiza la integridad de la serie:
 
@@ -17,7 +20,7 @@ Mi *pipeline* de trabajo sigue los más altos estándares de **Ciencia Abierta y
 
 ---
 
-## Proyectos Destacados (Evidencia de Nivel)
+## 📂 Proyectos Destacados (Evidencia de Nivel)
 
 ### 1. [Evolución del Gasto Turístico en Canarias (2016–2024)](https://github.com/JESUSCASTRODATA/turismo_canarias_gasto)
 **Stack:** Python (Pandas) + Quarto.
@@ -31,7 +34,7 @@ Mi *pipeline* de trabajo sigue los más altos estándares de **Ciencia Abierta y
 
 ---
 
-## Stack y Metodología
+## 💻 Stack y Metodología
 
 | Área | Herramientas | Enfoque Metodológico |
 | :--- | :--- | :--- |
@@ -43,8 +46,13 @@ Mi *pipeline* de trabajo sigue los más altos estándares de **Ciencia Abierta y
 ---
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=JESUSCASTRODATA" alt="Visitas">  
-<a href="https://jesuscastrodata.github.io">Portfolio</a> ·  
-<a href="https://www.linkedin.com/in/jesuscastrodata">LinkedIn</a> ·  
-<a href="mailto:enycjsuscastrodata@gmail.com">Email</a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=JESUSCASTRODATA" alt="Visitas">
+    <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17465216-informational.svg" alt="DOI Zenodo Delitos">
+    <img src="https://img.shields.io/badge/Licencia-MIT-blue.svg" alt="Licencia MIT">
+</p>
+
+<p align="center">
+    <a href="https://jesuscastrodata.github.io">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/jesuscastrodata">LinkedIn</a> ·
+    <a href="mailto:enycjsuscastrodata@gmail.com">Email</a>
 </p>

@@ -23,9 +23,14 @@ Mi *pipeline* de trabajo sigue los más altos estándares de **Ciencia Abierta y
 ## Proyectos Destacados (Evidencia de Nivel)
 
 ### 1. [Evolución del Gasto Turístico en Canarias (2016–2024)](https://github.com/JESUSCASTRODATA/turismo_canarias_gasto)
-**Stack:** Python (Pandas) + Quarto.
-**Logro Clave:** Creación de una serie de **Gasto Real** mediante el **Empalme IPC (Base 2016-2021)**. Diagnóstico del **descenso estructural** de Países Nórdicos utilizando **CAGR**.
-> *Muestra: [Visualización de Brecha Inflacionaria](https://github.com/JESUSCASTRODATA/turismo_canarias_gasto/blob/main/output/figures/gasto_nominal_vs_real_gap.jpg)*
+**Stack:** Python (Pandas) + Quarto.  
+**Logro Clave:** Creación de una serie de **Gasto Real** mediante el **Empalme IPC (Base 2016–2021)**. Diagnóstico del **descenso estructural** de Países Nórdicos utilizando **CAGR**.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/JESUSCASTRODATA/turismo_canarias_gasto/main/output/figures/gasto_nominal_vs_real_gap.png" 
+         alt="Gráfico de Brecha Inflacionaria (Gasto Nominal vs. Real)" width="700">
+</p>
+
 
 ### 2. [Delitos e Inmigración en España (2010–2023)](https://github.com/JESUSCASTRODATA/delitos_inmigracion_espana_MIN)
 **Stack:** R (Tidyverse) + Quarto.

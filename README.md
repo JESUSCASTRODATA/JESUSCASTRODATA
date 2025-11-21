@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Castro | JESUSCASTRODATA</h1>
 
 <p align="center">
-    Analista de Datos | Especializado en Turismo, Economía Regional y Ciencias Sociales
+    Analista de Datos especializado en proyectos sectoriales (Turismo, Economía y Datos Públicos).
 </p>
 <p align="center">
     **Python · R · Reproducibilidad · Open Data**

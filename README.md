@@ -24,12 +24,14 @@ Mi *pipeline* de trabajo sigue los más altos estándares de **Ciencia Abierta y
 
 ### 1. [Evolución del Gasto Turístico en Canarias (2016–2024)](https://github.com/JESUSCASTRODATA/turismo_canarias_gasto)
 **Stack:** Python (Pandas) + Quarto.  
-**Logro Clave:** Creación de una serie de **Gasto Real** mediante el **Empalme IPC (Base 2016–2021)**. Diagnóstico del **descenso estructural** de Países Nórdicos utilizando **CAGR**.
+**Logro Clave:** Creación de una serie de **Gasto Real** mediante un **Empalme IPC robusto (Base 2016–2021)** y diagnóstico del **descenso estructural** de Países Nórdicos utilizando **CAGR**.
 
+**Gráfico: Gasto turístico nominal vs real (2016–2024)**  
 <p align="center">
-    <img src="https://raw.githubusercontent.com/JESUSCASTRODATA/turismo_canarias_gasto/main/output/figures/gasto_nominal_vs_real_gap.png" 
-         alt="Gráfico de Brecha Inflacionaria (Gasto Nominal vs. Real)" width="700">
+    <img src="https://raw.githubusercontent.com/JESUSCASTRODATA/turismo_canarias_gasto/main/output/figures/gasto_nominal_vs_real_gap.png"
+         alt="Gráfico de gasto nominal vs gasto real en Canarias (2016–2024)" width="750">
 </p>
+
 
 
 ### 2. [Delitos e Inmigración en España (2010–2023)](https://github.com/JESUSCASTRODATA/delitos_inmigracion_espana_MIN)
